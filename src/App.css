@@ -25,7 +25,7 @@ input:focus {
   font-family: "Work Sans", sans-serif;
 }
 
-.App h1 {
+.header h1 {
   padding: 0.66rem 0;
   text-align: center;
   background-color: #cca353;
