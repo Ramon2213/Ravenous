@@ -1,11 +1,17 @@
+import React from "react";
+import styles from "./Apps.css";
 
+import BusinessList from "./components/BusinessList/BusinessList";
+import SearchBar from "./components/SearchBar/SearchBar";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-        <h1>yo whatup</h1>
+    <div className={styles.App}>
+      <h1>ravenous</h1>
+      <SearchBar />
+      <BusinessList />
     </div>
   );
-}
+};
 
 export default App;
