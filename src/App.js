@@ -1,6 +1,5 @@
 import React from "react";
-import styles from "./App.css";
-
+import "./App.css";
 import BusinessList from "./components/BusinessList/BusinessList";
 import SearchBar from "./components/SearchBar/SearchBar";
 
