@@ -1,4 +1,4 @@
-import React from "react";
+npm run buildimport React from "react";
 import styles from "./SearchBar.module.css";
 
 const sortByOptions = {

@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\BusinessList"
+    "\\src\\components"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\src\\App.css",
   "PreviewInSolutionExplorer": false
 }
