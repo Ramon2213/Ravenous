@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appnaam/static/css/main.32851c84.css",
+    "main.js": "/appnaam/static/js/main.68b5331a.js",
+    "static/media/background_search_desktop.jpg": "/appnaam/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "static/media/background_search_mobile.jpg": "/appnaam/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/appnaam/index.html",
+    "main.32851c84.css.map": "/appnaam/static/css/main.32851c84.css.map",
+    "main.68b5331a.js.map": "/appnaam/static/js/main.68b5331a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32851c84.css",
+    "static/js/main.68b5331a.js"
+  ]
+}
